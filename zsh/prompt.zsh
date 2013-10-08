@@ -68,5 +68,5 @@ precmd() {
 }
 
 uptime
-echo "Welcome back, Albert!" | lolcat
-fortune | cowsay -f code/dotfiles/zsh/cowfiles/mediumpanda.cow | lolcat
+echo "Welcome back, Marcos!" | lolcat
+fortune | cowsay -f code/dotfiles/zsh/cowfiles/lion.cow | lolcat
